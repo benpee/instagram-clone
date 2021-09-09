@@ -1,0 +1,14 @@
+.imageUpload {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: 10px auto;
+    /* bottom: 5px;
+    position: fixed; */
+    background-color: #fff;
+    border-top: 1px solid lightgray;
+}
+
+.imageUpload > progress {
+    width: 100%;
+}

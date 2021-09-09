@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 400;
+    background-color: #e8e6e4;
+    overflow-x: hidden; }
